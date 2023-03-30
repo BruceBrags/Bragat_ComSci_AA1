@@ -1,0 +1,44 @@
+#rplc1{
+	border-width: thin;
+	border-style: solid;
+	border-radius: 4px;
+	width: 100px;
+}
+#rplc2{
+	border-width: thin;
+	border-style: solid;
+	border-radius: 4px;
+	width: 100px;
+}
+#rplc3{
+	border-width: thin;
+	border-style: solid;
+	border-radius: 4px;
+	width: 100px;
+}
+.card{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 4%;
+	position: relative;
+}
+.card-top{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 4%;
+	text-align: center;
+}
+.card-body{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+.card-bottom{
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 4%;
+}
